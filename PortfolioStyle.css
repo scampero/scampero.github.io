@@ -10,11 +10,4 @@ h2 {
 .company {
 	font-weight: bold;
 	margin-bottom: 0cm;
-	line-height: 13px;
-}
-
-.bullets{
-	margin-top: 0cm;
-	list-style-position: circle;
-	line-height: 5px;
 }
