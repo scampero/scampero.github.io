@@ -1,0 +1,29 @@
+body {
+    font-family: 'Helvetica Neue';
+    font-weight: lighter;
+}
+
+h2 {
+	background: #55bed5;
+}
+
+h4 {
+	background: #55bed5;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.company {
+	font-weight: bold;
+	margin-bottom: 0cm;
+}
+
+.date {
+	float: right;
+}
+
+.biotext{
+	margin-left: 2%;
+	margin-right: 2%;
+	background-color: #F0F0F0 ;
+}
